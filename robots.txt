@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://servicemobil.github.io/auto-wong-jowo/sitemap.xml
